@@ -1,4 +1,3 @@
-alert ("hello")
 const addtask = document.querySelector(".b1");
 const input = document.querySelector("#input");
 const tasklist = document.querySelector("#list");
